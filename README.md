@@ -1,11 +1,11 @@
 # ABSTERGO Shop
 Web Static Bertemakan Toko Online 
 
-![Preview ABSTERGO Shop](/Abstergo-Shop.png "Preview ABSTERGO Shop")
+![Preview ABSTERGO Shop](Abstergo-Shop.png "Preview ABSTERGO Shop")
 
 
 ## Demo
-[link](https://ardifernanda2605.github.io/ABSTERGO-Shop/)
+[link](https://diifrnnd26.github.io/ABSTERGO-Shop/)
 
 ### Ini adalah Salah satu Fake Project yang saya buat
 
