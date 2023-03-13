@@ -1,7 +1,7 @@
 # ABSTERGO Shop
 Web Static Bertemakan Toko Online 
 
-##![Preview ABSTERGO Shop](/Abstergo-Shop.png "Preview ABSTERGO Shop")
+/*![Preview ABSTERGO Shop](/Abstergo-Shop.png "Preview ABSTERGO Shop")*/
 
 
 ## Demo
